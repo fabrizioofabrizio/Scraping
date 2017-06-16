@@ -70,7 +70,7 @@ body { padding-top: 2px; }
 					<input type="submit" class="form-control" id="submit" placeholder="Button">
 				</div>
 			</form>
-		</div>
+	</div>
 		<div class="col-sm-9">
 			</br>
 			<label style= "color: black"><div id="refresh"></div></label>
